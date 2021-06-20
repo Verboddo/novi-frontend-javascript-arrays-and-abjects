@@ -23,7 +23,9 @@ console.log(multipleNumbers[0])
 // 4b. Zorg ervoor dat je de vijfde waarde uit bovenstaande array in de terminal logt       // geeft blauw
 // 4c. Zorg ervoor dat je de tweede waarde uit bovenstaande array in de terminal logt       // geeft geel
 // ==========================================
-
+const colors = ['groen', 'geel', 'rood', 'paars', 'blauw', 'oranje']
+console.log(colors[4])
+console.log(colors[1])
 
 // ==========================================
 // 5a. Declareer een variabele met daarin een array met de waardes 21, 22, 23, 25, 25 en log dit in de terminal
