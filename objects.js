@@ -39,6 +39,6 @@ console.log(product["b-h-d"])
 // Declareer een variabele met daarin een string die het product beschrijft. Gebruik hiervoor de properties productName en material uit het object.
 // ---- Verwachte uitkomst:
 // "De Smeg Waterkoker is gemaakt van roestvrijstaal en kunststof"
-
+console.log(`De ${product.productName} is gemaakt van ${product.material[0]} en ${product.material[1]}`)
 
 
