@@ -1,7 +1,8 @@
 // ==========================================
 // 1. Declareer een variabele en sla daar een array met vier jaartallen (zoals 2021) in op. Log dit in de terminal.
 // ==========================================
-
+const year = [2021, 2022, 2023, 2024]
+console.log(year)
 
 // ==========================================
 // 2. Declareer een variabele en sla daar een array met drie van jouw hobbies (zoals muziek luisteren en koekjes eten) in op. Log dit in de terminal.
