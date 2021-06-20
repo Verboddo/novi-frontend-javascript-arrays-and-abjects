@@ -32,7 +32,10 @@ console.log(colors[1])
 // 5b. Overschrijf één van de items in de array dusdanig dat de cijferreeks netjes doorloopt (je mag de declaratie op de vorige regel niet aanpassen).
 // 5c. Log de array in de terminal                                                          // geeft [ 21, 22, 23, 24, 25 ]
 // ==========================================
-
+const differentNumbers = [21, 22, 23, 25, 25]
+console.log(differentNumbers)
+differentNumbers[3] = 24
+console.log(differentNumbers)
 
 // ==========================================
 // 6a. Declareer een variabele met daarin een array met de waardes bladerdeeg, knoflook, spinazie
