@@ -7,7 +7,8 @@ console.log(year)
 // ==========================================
 // 2. Declareer een variabele en sla daar een array met drie van jouw hobbies (zoals muziek luisteren en koekjes eten) in op. Log dit in de terminal.
 // ==========================================
-
+const hobbys = ['Driving motorcycle', 'Gaming', 'Coding']
+console.log(hobbys)
 
 // ==========================================
 // 3a. Declareer een variabele met daarin een array met de waardes 3, 4, 5, 7 en 2
