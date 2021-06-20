@@ -43,3 +43,7 @@ console.log(differentNumbers)
 // 6c. Log de de array in de terminal                                                       // geeft [ 'lasagne bladen', 'knoflook', 'spinazie' ]
 // 6d. Log de lengte van de array in de terminal                                            // geeft 3
 // ==========================================
+const ingredients = ['bladerdeeg', 'knoflook', 'spinazie']
+ingredients[0] = 'lasange bladen'
+console.log(ingredients)
+console.log(ingredients.length)
